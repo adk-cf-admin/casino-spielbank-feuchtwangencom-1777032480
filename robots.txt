@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-spielbank-feuchtwangen.com/
+Sitemap: https://casino-spielbank-feuchtwangen.com/sitemap.xml

@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#11285C",
+            "lang-select-color": "#222829",
+            "bg-light": "#11285C",
+            "welcome-bonus-bg": "#11285C",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#163063",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#11285C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#000000",
+            "yellow-button": "#1c3e82",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1c3e82",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#11285C",
+            "faq-label": "#11285C",
+            "bg-footer": "#11285C",
+            "copyright": "#e7e7d5",
+            "starColor": "#fff700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6801"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6799",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Spielbank Feuchtwangen"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6802",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Spielbank Feuchtwangen"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Spielbank Feuchtwangen",
+                    "title": "Spielbank Feuchtwangen Casino-Überblick",
+                    "description": "Entdecken Sie die Spielbank Feuchtwangen als reale staatlich konzessionierte Spielbank vor Ort mit klassischem Spiel, Automatenspiel und moderner Architektur.",
+                    "canonical": "casino-spielbank-feuchtwangen.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6803",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "Назад casino-spielbank-feuchtwangen.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6804"
+                },
+                "hero": {
+                    "title": "Spielbank Feuchtwangen – Staatliche Spielbank und Casino-Erlebnis in Feuchtwangen",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6805",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6806",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Staatlich konzessioniertes Casino in Feuchtwangen",
+                        "Zweitgrößte Spielbank in ganz Bayern",
+                        "Klassische Spiele für unsere Gäste",
+                        "Automatenspiel auf 800 Quadratmetern Spielfläche",
+                        "Moderne Architektur direkt an der A7"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Spielbank Feuchtwangen App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6807",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Spielbank Feuchtwangen App",
+                    "mobileGooglePlayImageTitle": "Spielbank Feuchtwangen App",
+                    "mobileIosImageTitle": "Spielbank Feuchtwangen App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Casino",
+                        "description1": "",
+                        "items": [
+                            "Unser Automatensaal bietet 800 Quadratmeter Spielfläche.",
+                            "Für das Automatenspiel werden 220 Spielautomaten genannt.",
+                            "Unser Gebäude umfasst 4.800 Quadratmeter Nutzfläche."
+                        ],
+                        "description2": "Die Geschichte unserer Spielbank begann mit den Bauarbeiten im Mai 1998. Geplant wurde ein moderner Gebäudekomplex auf zwei Ebenen mit 4.800 Quadratmetern Nutzfläche, der Raum für gepflegte Unterhaltung in zeitgemäßer Architektur bietet.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6808",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Spielbank Feuchtwangen",
+                        "description3": "Am 31. März 2000 wurde die Spielbank Feuchtwangen eröffnet. Seitdem ist unser Casino ein markanter Bestandteil der modernen Stadtentwicklung und zählt zu den architektonisch und touristisch herausragenden Einrichtungen der Region.\n\nAls staatlich konzessioniertes Casino und zweitgrößte Spielbank in Bayern präsentieren wir unseren Gästen ein Angebot, das klassisches Spiel, Automatenspiel, Bar, Restaurant und Veranstaltungen verbindet. Zu den klassischen Glücksspielen gehören Roulette, Black Jack und Poker.\n\nUnsere Spielbank ist auch architektonisch eng mit ihrem Standort verbunden. Die klare Formensprache, die futuristische Architektur und die offene Raumgestaltung machen unser Casino zu einem Blickfang an der Autobahn A7 und zu einem Besucherkomplex mit Ausstrahlung über Feuchtwangen hinaus."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Spiel Mit Weitblick",
+                        "description": "<p>In unserem Casino Feuchtwangen verbinden wir futuristische Architektur, großzügige Spielsäle und echtes Spielbank-Flair auf der Frankenhöhe. Bei uns erleben Gäste ein modernes Casino, das mit blau leuchtender Architektur, avantgardistischem Design und viel Raum für Spannung begeistert.<\/p> <br> <p>Unser Haus ist das zweitgrößte Casino Bayerns und bietet weitläufige Spielsäle für abwechslungsreiche Casino-Momente. Roulette, Black Jack, Poker und Automatenspiel bilden bei uns ein vielseitiges Angebot für Gäste, die klassische Spielbank-Unterhaltung und moderne Spielformen erleben möchten.<\/p> <br> <p>Beim Roulette bringen wir das Glück täglich ab 16:00 Uhr ins Rollen. An bis zu sechs Tischen bieten wir modernes American Roulette, das Gäste auch mit Spezialjetons ohne Wertmarkierung spielen können.<\/p> <br> <p>Unser Roulette verbindet einfache Spielregeln mit der besonderen Live-Atmosphäre am Tisch. Jede Runde entsteht direkt im Saal, und genau daraus gewinnt dieses klassische Spiel bei uns seine elegante Spannung.<\/p> <br> <p>Black Jack wird bei uns täglich ab 18:00 Uhr an bis zu zwei Tischen gespielt. Der Kartenklassiker ist mit Bust und Twins verfügbar und bringt Entscheidungen, Tempo und Tischatmosphäre in einen starken Casino-Moment.<\/p> <br> <p>Die Einsätze beim Black Jack liegen bei uns zwischen 5 und 1.000 Euro. Damit schaffen wir einen klaren Rahmen für Gäste, die den Kartenklassiker in professioneller Umgebung erleben möchten.<\/p> <br> <p>Poker hat bei uns einen festen Platz. Unsere Pokerturniere werden in der Variante Texas Hold’em No Limit gespielt und verbinden strategisches Denken, Menschenkenntnis und die besondere Spannung eines Live-Turniers.<\/p> <br> <p>Jeden Freitag bieten wir SBPM Texas Hold’em No Limit mit Unlimited Re-Entry an. Das Turnier beginnt um 19:00 Uhr, der Check-in startet um 17:45 Uhr, und das Buy-in beträgt 100 Euro plus 10 Euro.<\/p> <br> <p>Jeden Donnerstag bringt unser Knock-Out-Bounty-Turnier zusätzliche Dynamik in den Pokerbereich. Der Start ist um 20:00 Uhr, der Check-in beginnt um 19:00 Uhr, und das Format ist auf maximal 30 Spieler ausgelegt.<\/p> <br> <p>Sonntags steht bei uns das Sunday Special auf dem Programm. Dieses Texas-Hold’em-No-Limit-Turnier startet um 18:00 Uhr und bietet mit Re-Entry-Möglichkeit in der ersten Stunde einen spannenden Rahmen für Pokerfans.<\/p> <br> <p>An jedem ersten Sonntag im Monat ergänzt das Sunday Big Bounty unser Pokerangebot. Mit höherem Buy-in, Bounty-Anteil und bis zu 30 Spielern entsteht bei uns ein besonders intensiver Turnierabend.<\/p> <br> <p>Auch Cash Game gehört zu unserem Angebot. Jeden Freitag und Samstag ab 20:00 Uhr spielen Gäste Texas Hold’em No Limit, mit Anmeldung am selben Tag ab 12:00 Uhr.<\/p> <br> <p>Mit Bavarian Texas Hold’em bieten wir täglich ab 20:00 Uhr eine Pokervariante gegen die Bank. Das Spiel ergänzt unser Pokerprofil um eine besondere Form von Kartenunterhaltung direkt im Casino.<\/p> <br> <p>Unser Automatensaal bietet auf 800 Quadratmetern moderne Spielunterhaltung. Gäste finden bei uns moderne Spielautomaten, darunter Multi-Roulette-, Keno- und Hyperlink-Automaten.<\/p> <br> <p>Zusätzliche Spannung entsteht durch unsere Jackpot-Angebote. An mehreren Jackpot-Automaten wartet der Bayern-Jackpot, und auch der hauseigene Jackpot der Spielbank Feuchtwangen gehört zu unserem Angebot.<\/p> <br> <p>Die Kombination aus Live-Tischen, Turnierpoker, Cash Game, Bavarian Texas Hold’em und modernen Automaten macht unser Spielangebot besonders abwechslungsreich. Gäste können bei uns ihren Casino-Abend nach Stimmung und Spielinteresse gestalten.<\/p> <br> <p>Unser Spielbereich steht für elegante Klassiker und moderne Casino-Technik. Wer den direkten Tischkontakt liebt, findet ihn bei Roulette, Black Jack und Poker; wer Automaten bevorzugt, erlebt bei uns eine große Spielfläche mit zeitgemäßen Geräten.<\/p> <br> <p>Auch die Atmosphäre trägt bei uns viel zum Erlebnis bei. Die Architektur, das Licht, die offenen Säle und die Nähe zu Bar und Restaurant machen den Spielabend lebendig und besonders.<\/p> <br> <p>Mit Roulette ab 16:00 Uhr, Black Jack ab 18:00 Uhr und Pokerangeboten am Abend lässt sich der Besuch bei uns flexibel planen. So entsteht ein Casino-Erlebnis, das klassische Spielbank-Tradition und moderne Unterhaltung verbindet.<\/p> <br> <p>Unser Casino Feuchtwangen bringt Spielspaß, Design und Auswahl an einem Ort zusammen. Bei uns wird jeder Besuch zu einem Abend voller Spannung, Bewegung und besonderer Spielbank-Atmosphäre.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bereich\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bestätigte Details\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Spielangebot\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette, Black Jack, Poker und Automatenspiel\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    American Roulette täglich ab 16:00 Uhr an bis zu sechs Tischen; Spezialjetons ohne Wertmarkierung möglich\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Black Jack\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Black Jack mit Bust und Twins täglich ab 18:00 Uhr an bis zu zwei Tischen; Einsätze 5 bis 1.000 €\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Pokerturniere\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Texas Hold’em No Limit; SBPM freitags, Knock-Out Bounty donnerstags, Sunday Special sonntags, Sunday Big Bounty jeden ersten Sonntag im Monat\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Cash Game\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Texas Hold’em No Limit jeden Freitag und Samstag ab 20:00 Uhr; Anmeldung am selben Tag ab 12:00 Uhr\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bavarian Texas Hold’em\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Täglich 20:00 Uhr; Minimum 5 €, Maximum 500 €, zusätzliches Bonusspiel mit 2 €, 5 € oder 10 €\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Automatensaal\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    800 Quadratmeter Spielfläche mit modernen Spielautomaten, Multi-Roulette-, Keno- und Hyperlink-Automaten\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jackpots\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bayern-Jackpot an mehreren Jackpot-Automaten sowie hauseigener Jackpot der Spielbank Feuchtwangen\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Größe\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Zweitgrößtes Casino Bayerns mit weitläufigen Spielsälen\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p>Nach der Tabelle zeigt sich unser Profil besonders klar: Wir bieten Spielklassiker, Turnierformate, Cash Game und moderne Automatenunterhaltung in einem architektonisch starken Haus. Dadurch können Gäste ihren Abend bei uns vielseitig und individuell gestalten.<\/p> <br> <p>Die Pokerstruktur macht unser Casino für Kartenfreunde besonders interessant. Feste Turniertage, Cash Game am Wochenende und Bavarian Texas Hold’em schaffen bei uns ein umfangreiches Pokerangebot.<\/p> <br> <p>Im Automatensaal verbinden wir große Spielfläche mit modernen Geräten und Jackpot-Momenten. Multi-Roulette, Keno und Hyperlink-Automaten ergänzen die klassischen Tischspiele um zeitgemäße Spieltechnik.<\/p> <br> <p>American Roulette und Black Jack bringen die direkte Energie des Live-Spiels in unser Haus. Gäste erleben bei uns die besondere Spannung am Tisch, professionelle Abläufe und die Atmosphäre einer echten bayerischen Spielbank.<\/p> <br> <p>Unser Casino Feuchtwangen steht für ein Spielangebot, das Auswahl, Ambiente und Erlebniswert verbindet. Bei uns entsteht daraus ein Abend mit Dynamik, Stil und vielen Möglichkeiten.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Genuss Und Events",
+                        "description": "<p>Bei uns wird der Casino-Besuch zu einem kompletten Abend aus Spiel, Gastronomie, Bar und Bühne. Unser Haus verbindet weitläufige Spielsäle, großzügige Bars, The King Brian Bar & Restaurant und die Eventbühne CASINO live zu einem Erlebnis mit besonderem Charakter.<\/p> <br> <p>Unsere Lage ist besonders praktisch: Die Spielbank Feuchtwangen befindet sich direkt in der Nähe des Autobahnkreuzes A 6\/A 7 Feuchtwangen\/Crailsheim. Dadurch erreichen uns Gäste aus der Region und von weiter her besonders bequem.<\/p> <br> <p>The King Brian Bar & Restaurant ist bei uns Teil der Spielbank-Familie und befindet sich im Spielsaal. Hier verbinden wir internationale und nationale Küche mit direktem Blick in die besondere Atmosphäre unseres Hauses.<\/p> <br> <p>Seit dem 01.08.2022 stehen Joey Dwyer und Louise Reilly, beide gebürtige Iren, für unsere Gastronomie im The King Brian Bar & Restaurant. Damit bekommt der Genuss bei uns eine persönliche Handschrift.<\/p> <br> <p>Im Restaurant genießen Gäste Speisen in direkter Nähe zum Großen Spiel. Auch im Automatensaal kann bei uns gespeist werden, wodurch der Abend flexibel zwischen Spiel, Pause und Genuss gestaltet werden kann.<\/p> <br> <p>Unsere großzügigen Bars gehören fest zum Erlebnis. Mit einem kühlen Cocktail in der Hand können Gäste bei uns die Atmosphäre der Spielsäle weiterverfolgen und den Abend stilvoll begleiten.<\/p> <br> <p>Für private Feiern stellen wir einen separaten Eventraum bereit. Speziell auf individuelle Wünsche abgestimmte Angebote können über unsere Gastronomie angefragt werden.<\/p> <br> <p>Unsere Eventfläche bringt zusätzliche Energie in das Haus. Im Herzen der spektakulären Architektur präsentieren wir ein vielseitiges Bühnenprogramm mit Musik, besonderen Abenden und Nightlife-Atmosphäre.<\/p> <br> <p>CASINO live lockt bei uns mit außergewöhnlichen Konzerten und Clubnights. Die Eventfläche ragt offen ins Foyer der Spielbank und verbindet Bühne, Bar und Casino zu einem lebendigen Raum.<\/p> <br> <p>Bei Casino Club Nights wird unser Haus zum Ort für Feiern, Tanzen und Musik. Stylisches Licht, integrierte Bar und ein modernes Areal schaffen bei uns ein buntes Nightlife-Ambiente.<\/p> <br> <p>Regelmäßige Specials bringen zusätzliche Abwechslung in den Besuch. Herrenabend, Ladies Night, Casino-Café und Tombola gehören zu den bestätigten Formaten, die unser Programm bereichern.<\/p> <br> <p>Beim Casino-Café laden wir Gäste zu einer genussvollen Pause im stilvollen Ambiente ein. Das Angebot gilt von 12:00 bis 18:00 Uhr und verbindet Kaffee, Kuchen und Casino-Flair.<\/p> <br> <p>Unsere Tombola ist ein besonderes Highlight mit einer Gesamtgewinnsumme von 3.000 Euro. Drei Gewinner dürfen sich jeweils über 1.000 Euro freuen.<\/p> <br> <p>Auch besondere Veranstaltungen gehören zu unserem Kalender. Dazu zählen Casino Club Night Atlantis, Krimi Dinner, Schafkopfkrimi, „mampf mit krampf“ mit Christine Eixenberger und die Silvester Party mit Live-Band TEQUILA.<\/p> <br> <p>Für Geschenkideen bieten wir passende Pakete. Casino à la Carte Feuchtwangen und Casino Pur Feuchtwangen sind als bestätigte Geschenkpakete auf unserer offiziellen Standortseite aufgeführt.<\/p> <br> <p>Auch Gruppen können ihren Besuch bei uns besonders gestalten. Unsere Gruppenarrangements verbinden Spielbank-Vorstellung, Informationen zum Glücksspiel und Spielerklärungen für Roulette oder Black Jack.<\/p> <br> <p>Das Arrangement „Glücksmomente“ umfasst bei uns Sektempfang, Vorstellung der Spielbank, Informationen zum Glücksspiel, Rundgang durch die Spielsäle, Spielerklärung und Fingerfood im Spielsaal.<\/p> <br> <p>Für Gruppen bieten wir außerdem Roulette-Turnier und Black-Jack-Turnier als besondere Erlebnisformate. So wird aus dem Besuch bei uns ein gemeinsames Casino-Erlebnis mit Turniermoment.<\/p> <br> <p>Die Öffnungszeiten unseres Hauses unterstützen eine flexible Planung. Das Große Spiel ist von Sonntag bis Donnerstag bis 2:00 Uhr geöffnet, am Freitag und Samstag bis 3:00 Uhr.<\/p> <br> <p>Unser Automatenspiel startet täglich um 12:00 Uhr und läuft von Sonntag bis Donnerstag bis 2:00 Uhr sowie am Freitag und Samstag bis 3:00 Uhr. So können Gäste Spiel, Bar, Restaurant und Events gut miteinander kombinieren.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Info\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bestätigte Details\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Adresse\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Spielbank Feuchtwangen, Am Casino 1, 91555 Feuchtwangen\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Kontakt\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Tel: 09852 90060; Mail: feuchtwangen@spielbanken-bayern.de\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Lage\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Direkt in der Nähe des Autobahnkreuzes A 6\/A 7 Feuchtwangen\/Crailsheim\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Öffnungszeiten\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Großes Spiel: So–Do 16:00–2:00 Uhr, Fr–Sa 16:00–3:00 Uhr; Automatenspiel: So–Do 12:00–2:00 Uhr, Fr–Sa 12:00–3:00 Uhr\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Gastronomie\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    The King Brian Bar & Restaurant im Spielsaal; Joey Dwyer und Louise Reilly seit 01.08.2022 Teil der Spielbank-Familie\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Restaurantzeiten\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Montag–Dienstag Snacktag; Mittwoch–Donnerstag 16:30–22:00 Uhr; Freitag–Samstag 16:00–22:00 Uhr; Sonntag 15:00–21:00 Uhr\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Eventfläche\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    CASINO live, Casino Club Nights, integrierte Bar, stylisches Licht und offenes Areal im Foyer\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Specials\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Herrenabend, Ladies Night, Casino-Café, Tombola, Casino Club Night Atlantis, Krimi Dinner, Schafkopfkrimi und Silvester Party mit Live-Band TEQUILA\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Geschenkpakete\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Casino à la Carte Feuchtwangen 55,00 € und Casino Pur Feuchtwangen 25,00 €\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Gruppenarrangements\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Spielerklärung, Spielerklärung mit Sektempfang, Glücksmomente, Roulette-Turnier und Black-Jack-Turnier\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p>Nach der Tabelle wird deutlich, wie vielseitig unser Haus aufgebaut ist: Spielbank, Bar, Restaurant und Bühne greifen bei uns ineinander. Gäste können ihren Besuch als Spielabend, Genussmoment, Eventtermin oder Gruppenerlebnis planen.<\/p> <br> <p>The King Brian Bar & Restaurant macht den Aufenthalt kulinarisch stärker. Mit Restaurant im Spielsaal, Bars in den Spielbereichen und einem separaten Eventraum bieten wir viele Möglichkeiten für Genuss und besondere Anlässe.<\/p> <br> <p>Unsere Eventfläche bringt Nightlife und Kultur in die Spielbank. Casino Club Nights, Musik, Krimi Dinner und Specials schaffen bei uns ein Programm, das den klassischen Casino-Besuch lebendig erweitert.<\/p> <br> <p>Mit Geschenkpaketen und Gruppenarrangements wird unser Casino-Erlebnis auch für gemeinsame Abende, Überraschungen und besondere Termine attraktiv. Bei uns lässt sich Spielbank-Atmosphäre stilvoll weitergeben und gemeinsam erleben.<\/p> <br> <p>Unser Standort Feuchtwangen verbindet gute Erreichbarkeit, starke Architektur, Gastronomie, Events und Spielunterhaltung. So entsteht ein Casino-Abend, der weit über den einzelnen Spielmoment hinausgeht.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wo befindet sich die Spielbank Feuchtwangen?",
+                            "answer": "Unsere Spielbank befindet sich in Feuchtwangen und liegt direkt an der Autobahn A7."
+                        },
+                        {
+                            "title": "Wann wurde die Spielbank Feuchtwangen eröffnet?",
+                            "answer": "Unsere Spielbank wurde am 31. März 2000 eröffnet."
+                        },
+                        {
+                            "title": "Welche klassischen Spiele bietet die Spielbank Feuchtwangen?",
+                            "answer": "Unsere Gäste erleben klassische Glücksspiele wie Roulette, Black Jack und Poker."
+                        },
+                        {
+                            "title": "Wie groß ist der Automatensaal?",
+                            "answer": "Unser Automatensaal bietet 800 Quadratmeter Spielfläche."
+                        },
+                        {
+                            "title": "Welche Rolle spielt die Architektur der Spielbank?",
+                            "answer": "Unsere Spielbank verbindet moderne Architektur, offene Raumgestaltung und eine klare Formensprache."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
