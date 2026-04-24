@@ -106,21 +106,21 @@
                     "bonusCodeText": "Bonuscode",
                     "casino": "Kasino",
                     "bonuses": "Boni",
-                    "rate": "",
+                    "rate": "Rate",
                     "freeSpins": "Frei Spins",
                     "moreInfo": "Mehr Info",
-                    "get": "",
+                    "get": "Erhalten",
                     "refresh": "Aktualisieren"
                 },
                 "advantages": {
                     "title": "Vorteile",
                     "advantagesBeforeText": "",
                     "items": [
-                        "Staatlich konzessioniertes Casino in Feuchtwangen",
-                        "Zweitgrößte Spielbank in ganz Bayern",
-                        "Klassische Spiele für unsere Gäste",
-                        "Automatenspiel auf 800 Quadratmetern Spielfläche",
-                        "Moderne Architektur direkt an der A7"
+                        "Casino in Feuchtwangen offiziell",
+                        "Nummer zwei in Bayern",
+                        "Live-Spiele für unsere Gäste",
+                        "Automaten auf 800 qm",
+                        "Modernes Haus an A7"
                     ],
                     "advantagesAfterText": "",
                     "knowMore": "Mehr erfahren",
